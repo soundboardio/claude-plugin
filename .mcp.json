@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "soundboardio": {
+      "type": "http",
+      "url": "https://soundboardio.com/mcp"
+    }
+  }
+}

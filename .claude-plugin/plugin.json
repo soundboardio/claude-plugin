@@ -1,0 +1,20 @@
+{
+  "name": "soundboardio",
+  "version": "2.11.11",
+  "description": "Find quote sounds from Czech and Slovak movies, series and personalities with a link that plays them, add one to release notes, and build your own soundboard.",
+  "author": {
+    "name": "SoundBoardio",
+    "url": "https://soundboardio.com"
+  },
+  "homepage": "https://soundboardio.com",
+  "privacyPolicyUrl": "https://soundboardio.com/privacy/",
+  "repository": "https://github.com/soundboardio/claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "soundboard",
+    "quotes",
+    "sounds",
+    "mcp",
+    "czech"
+  ]
+}

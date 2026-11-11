@@ -1,0 +1,17 @@
+{
+  "name": "soundboardio",
+  "owner": {
+    "name": "SoundBoardio",
+    "url": "https://soundboardio.com"
+  },
+  "metadata": {
+    "description": "Quote sounds from SoundBoardio.com for Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "soundboardio",
+      "source": "./",
+      "description": "Quote sounds from SoundBoardio: search, release notes and your own soundboard."
+    }
+  ]
+}
